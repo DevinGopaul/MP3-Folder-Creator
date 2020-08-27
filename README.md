@@ -1,5 +1,5 @@
 # MP3 Folder Creator
-This Java tool groups MP3 files of the same artist and album together. It moves the MP3 files in a folder to new subfolders with names that correspond to an album by an artist. It finds the artist name and album name in the MP3 files' ID3 tag, which contains music metadata. Then, it creates a folder with its bame in the format of Artst Name - Album Name. Lastly, it moves the MP3 file to that folder (provided that there is not a file in that folder with the exact same name).<br>
+This Java tool groups MP3 files of the same artist and album together. It moves the MP3 files in a folder to new subfolders with names that correspond to an album by an artist. It finds the artist name and album name in the MP3 files' ID3 tag, which contains music metadata. Then, it creates a folder with its name in the format of Artst Name - Album Name. Lastly, it moves the MP3 file to that folder (provided that there is not a file in that folder with the exact same name).<br>
 
 Currently, this tool only supports MP3 files with ID3V2.3 or ID3V2.4 tags. Also, ID3 tags with complete tag or frame unsynchronizaton, extended headers, and footers should be supported, but only complete tag unsynchronizaton has been tested.<br>
 
