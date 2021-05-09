@@ -39,7 +39,7 @@ Then, wait for the program to finish. You can see the status of the program by l
 # Credits:
 This program was written by:<br>
 [Devin Gopaul](https://github.com/DevinGopaul)<br>
-Sources that were referred to while marking this program include:<br>
+Sources that were referred to while making this program include:<br>
 [Java Documentation](https://docs.oracle.com/en/java/javase/14/docs/api/)<br>
 [ID3V2 Documentation](https://id3.org)<br>
 Other specific sources are cited in `MP3Mover.java`
